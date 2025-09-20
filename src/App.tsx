@@ -9,6 +9,7 @@ import Index from "./pages/Index";
 import Auth from "./pages/Auth";
 import Quiz from "./pages/Quiz";
 import Results from "./pages/Results";
+import CollegeMap from "./components/CollegeMap";
 import Courses from "./pages/Courses";
 import Dashboard from "./pages/Dashboard";
 import NotFound from "./pages/NotFound";
@@ -29,6 +30,7 @@ const App = () => (
               <Route path="/quiz" element={<Quiz />} />
               <Route path="/results" element={<Results />} />
               <Route path="/courses" element={<Courses />} />
+              <Route path="/map" element={<CollegeMap />} />
               <Route path="/dashboard" element={<Dashboard />} />
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />

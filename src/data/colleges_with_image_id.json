@@ -1,0 +1,1707 @@
+[
+  {
+    "stream_id": 1,
+    "colleges": [
+      {
+        "id": 1,
+        "name": "Sher-e-Kashmir University of Agricultural Sciences and Technology #1",
+        "link": "/colleges/sher-e-kashmir-university-of-agricultural-sciences-and-technology-#1-1",
+        "rating": "4.7",
+        "reviews": 21,
+        "location": "Ganderbal, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "2011",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_1",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 2,
+        "name": "Govt Degree College Kathua #2",
+        "link": "/colleges/govt-degree-college-kathua-#2-2",
+        "rating": "5.0",
+        "reviews": 12,
+        "location": "Srinagar, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1950",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_2",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 3,
+        "name": "Govt Degree College Kathua #3",
+        "link": "/colleges/govt-degree-college-kathua-#3-3",
+        "rating": "3.8",
+        "reviews": 23,
+        "location": "Rajouri, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2007",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_3",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 4,
+        "name": "Govt Degree College Doda #4",
+        "link": "/colleges/govt-degree-college-doda-#4-4",
+        "rating": "4.3",
+        "reviews": 30,
+        "location": "Kargil, Ladakh",
+        "type": "Private",
+        "established": "1992",
+        "popular_programs": [
+          "B.Com",
+          "M.Com"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_4",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 5,
+        "name": "Govt Degree College Kupwara #5",
+        "link": "/colleges/govt-degree-college-kupwara-#5-5",
+        "rating": "5.0",
+        "reviews": 17,
+        "location": "Poonch, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1967",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_5",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 6,
+        "name": "Govt Degree College Pulwama #6",
+        "link": "/colleges/govt-degree-college-pulwama-#6-6",
+        "rating": "4.7",
+        "reviews": 11,
+        "location": "Baramulla, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1959",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_6",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 7,
+        "name": "Govt Degree College Anantnag #7",
+        "link": "/colleges/govt-degree-college-anantnag-#7-7",
+        "rating": "4.4",
+        "reviews": 22,
+        "location": "Ganderbal, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1954",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_7",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 8,
+        "name": "Govt Degree College Shopian #8",
+        "link": "/colleges/govt-degree-college-shopian-#8-8",
+        "rating": "4.0",
+        "reviews": 29,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1971",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_8",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 9,
+        "name": "Govt Degree College Udhampur #9",
+        "link": "/colleges/govt-degree-college-udhampur-#9-9",
+        "rating": "3.7",
+        "reviews": 26,
+        "location": "Shopian, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1941",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_9",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 10,
+        "name": "Govt Degree College Rajouri #10",
+        "link": "/colleges/govt-degree-college-rajouri-#10-10",
+        "rating": "5.0",
+        "reviews": 28,
+        "location": "Rajouri, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1985",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_10",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 11,
+        "name": "Govt Degree College Reasi #11",
+        "link": "/colleges/govt-degree-college-reasi-#11-11",
+        "rating": "4.2",
+        "reviews": 4,
+        "location": "Udhampur, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1942",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_11",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 12,
+        "name": "Govt Degree College Leh #12",
+        "link": "/colleges/govt-degree-college-leh-#12-12",
+        "rating": "4.2",
+        "reviews": 7,
+        "location": "Reasi, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1980",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_12",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 13,
+        "name": "Govt Degree College Ramban #13",
+        "link": "/colleges/govt-degree-college-ramban-#13-13",
+        "rating": "4.2",
+        "reviews": 18,
+        "location": "Shopian, Jammu & Kashmir",
+        "type": "Government",
+        "established": "2003",
+        "popular_programs": [
+          "B.Tech",
+          "M.Tech"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_13",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 14,
+        "name": "Govt Degree College Sopore #14",
+        "link": "/colleges/govt-degree-college-sopore-#14-14",
+        "rating": "4.0",
+        "reviews": 2,
+        "location": "Poonch, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1965",
+        "popular_programs": [
+          "B.Com",
+          "M.Com"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_14",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 15,
+        "name": "Govt Degree College Ganderbal #15",
+        "link": "/colleges/govt-degree-college-ganderbal-#15-15",
+        "rating": "4.3",
+        "reviews": 9,
+        "location": "Reasi, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1944",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_15",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 16,
+        "name": "Govt Degree College Leh #16",
+        "link": "/colleges/govt-degree-college-leh-#16-16",
+        "rating": "3.5",
+        "reviews": 26,
+        "location": "Kupwara, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1954",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_16",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 17,
+        "name": "Islamia College of Science & Commerce #17",
+        "link": "/colleges/islamia-college-of-science-&-commerce-#17-17",
+        "rating": "3.6",
+        "reviews": 8,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2018",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_17",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 18,
+        "name": "Govt Degree College Kupwara #18",
+        "link": "/colleges/govt-degree-college-kupwara-#18-18",
+        "rating": "4.3",
+        "reviews": 19,
+        "location": "Rajouri, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1978",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_18",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 19,
+        "name": "Govt Degree College Anantnag #19",
+        "link": "/colleges/govt-degree-college-anantnag-#19-19",
+        "rating": "4.0",
+        "reviews": 2,
+        "location": "Ganderbal, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1973",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_19",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 20,
+        "name": "Govt Degree College Shopian #20",
+        "link": "/colleges/govt-degree-college-shopian-#20-20",
+        "rating": "4.6",
+        "reviews": 28,
+        "location": "Kulgam, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1961",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_20",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 21,
+        "name": "Sher-e-Kashmir University of Agricultural Sciences and Technology #21",
+        "link": "/colleges/sher-e-kashmir-university-of-agricultural-sciences-and-technology-#21-21",
+        "rating": "4.7",
+        "reviews": 18,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1941",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_21",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 22,
+        "name": "Govt Degree College Poonch #22",
+        "link": "/colleges/govt-degree-college-poonch-#22-22",
+        "rating": "4.5",
+        "reviews": 18,
+        "location": "Doda, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1947",
+        "popular_programs": [
+          "B.Tech",
+          "M.Tech"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_22",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 23,
+        "name": "Govt Degree College Ganderbal #23",
+        "link": "/colleges/govt-degree-college-ganderbal-#23-23",
+        "rating": "4.9",
+        "reviews": 4,
+        "location": "Kathua, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1980",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_23",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 24,
+        "name": "Govt Degree College Ramban #24",
+        "link": "/colleges/govt-degree-college-ramban-#24-24",
+        "rating": "4.1",
+        "reviews": 14,
+        "location": "Leh, Ladakh",
+        "type": "Government",
+        "established": "1995",
+        "popular_programs": [
+          "B.Tech",
+          "M.Tech"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_24",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 25,
+        "name": "Govt Degree College Kulgam #25",
+        "link": "/colleges/govt-degree-college-kulgam-#25-25",
+        "rating": "4.8",
+        "reviews": 22,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Government",
+        "established": "2004",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_25",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 26,
+        "name": "Govt Degree College Ramban #26",
+        "link": "/colleges/govt-degree-college-ramban-#26-26",
+        "rating": "4.4",
+        "reviews": 15,
+        "location": "Ramban, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1974",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_26",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 27,
+        "name": "Govt Degree College Anantnag #27",
+        "link": "/colleges/govt-degree-college-anantnag-#27-27",
+        "rating": "4.9",
+        "reviews": 17,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "2016",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_27",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 28,
+        "name": "Govt Degree College Rajouri #28",
+        "link": "/colleges/govt-degree-college-rajouri-#28-28",
+        "rating": "4.2",
+        "reviews": 16,
+        "location": "Shopian, Jammu & Kashmir",
+        "type": "Government",
+        "established": "2000",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_28",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 29,
+        "name": "Sri Gulab Singh Govt Degree College #29",
+        "link": "/colleges/sri-gulab-singh-govt-degree-college-#29-29",
+        "rating": "4.9",
+        "reviews": 6,
+        "location": "Srinagar, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1967",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_29",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 30,
+        "name": "Govt Degree College Reasi #30",
+        "link": "/colleges/govt-degree-college-reasi-#30-30",
+        "rating": "4.7",
+        "reviews": 11,
+        "location": "Kathua, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "2018",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_30",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 31,
+        "name": "Govt Degree College Shopian #31",
+        "link": "/colleges/govt-degree-college-shopian-#31-31",
+        "rating": "4.7",
+        "reviews": 7,
+        "location": "Kupwara, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2003",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_31",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 32,
+        "name": "Govt Degree College Poonch #32",
+        "link": "/colleges/govt-degree-college-poonch-#32-32",
+        "rating": "4.7",
+        "reviews": 11,
+        "location": "Bandipora, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1948",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_32",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 33,
+        "name": "Govt Degree College Udhampur #33",
+        "link": "/colleges/govt-degree-college-udhampur-#33-33",
+        "rating": "4.0",
+        "reviews": 2,
+        "location": "Kulgam, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1979",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_33",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 34,
+        "name": "Govt Degree College Pulwama #34",
+        "link": "/colleges/govt-degree-college-pulwama-#34-34",
+        "rating": "3.6",
+        "reviews": 16,
+        "location": "Kargil, Ladakh",
+        "type": "Autonomous",
+        "established": "1994",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_34",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 35,
+        "name": "Sri Gulab Singh Govt Degree College #35",
+        "link": "/colleges/sri-gulab-singh-govt-degree-college-#35-35",
+        "rating": "4.7",
+        "reviews": 26,
+        "location": "Poonch, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1993",
+        "popular_programs": [
+          "B.Tech",
+          "M.Tech"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_35",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 36,
+        "name": "Govt Degree College Ramban #36",
+        "link": "/colleges/govt-degree-college-ramban-#36-36",
+        "rating": "4.3",
+        "reviews": 20,
+        "location": "Udhampur, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1950",
+        "popular_programs": [
+          "B.Tech",
+          "M.Tech"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_36",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 37,
+        "name": "Govt Degree College Kathua #37",
+        "link": "/colleges/govt-degree-college-kathua-#37-37",
+        "rating": "4.7",
+        "reviews": 7,
+        "location": "Bandipora, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2001",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_37",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 38,
+        "name": "Govt Degree College Reasi #38",
+        "link": "/colleges/govt-degree-college-reasi-#38-38",
+        "rating": "3.9",
+        "reviews": 24,
+        "location": "Ganderbal, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2003",
+        "popular_programs": [
+          "B.Tech",
+          "M.Tech"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_38",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 39,
+        "name": "Govt Degree College Ramban #39",
+        "link": "/colleges/govt-degree-college-ramban-#39-39",
+        "rating": "4.6",
+        "reviews": 2,
+        "location": "Leh, Ladakh",
+        "type": "Autonomous",
+        "established": "1943",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_39",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 40,
+        "name": "Govt Degree College Kathua #40",
+        "link": "/colleges/govt-degree-college-kathua-#40-40",
+        "rating": "4.4",
+        "reviews": 13,
+        "location": "Shopian, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "2016",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_40",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 41,
+        "name": "Govt Degree College Reasi #41",
+        "link": "/colleges/govt-degree-college-reasi-#41-41",
+        "rating": "3.6",
+        "reviews": 4,
+        "location": "Doda, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1996",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_41",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 42,
+        "name": "Govt Degree College Baramulla #42",
+        "link": "/colleges/govt-degree-college-baramulla-#42-42",
+        "rating": "4.1",
+        "reviews": 26,
+        "location": "Ganderbal, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1969",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_42",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 43,
+        "name": "Govt Degree College Reasi #43",
+        "link": "/colleges/govt-degree-college-reasi-#43-43",
+        "rating": "4.9",
+        "reviews": 3,
+        "location": "Leh, Ladakh",
+        "type": "Autonomous",
+        "established": "1947",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_43",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 44,
+        "name": "Govt Degree College Ramban #44",
+        "link": "/colleges/govt-degree-college-ramban-#44-44",
+        "rating": "3.8",
+        "reviews": 12,
+        "location": "Kargil, Ladakh",
+        "type": "Government",
+        "established": "1959",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_44",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 45,
+        "name": "Sri Gulab Singh Govt Degree College #45",
+        "link": "/colleges/sri-gulab-singh-govt-degree-college-#45-45",
+        "rating": "4.0",
+        "reviews": 13,
+        "location": "Baramulla, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1989",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_45",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 46,
+        "name": "Govt Degree College Reasi #46",
+        "link": "/colleges/govt-degree-college-reasi-#46-46",
+        "rating": "4.0",
+        "reviews": 6,
+        "location": "Udhampur, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2008",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_46",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 47,
+        "name": "Govt Degree College Leh #47",
+        "link": "/colleges/govt-degree-college-leh-#47-47",
+        "rating": "4.0",
+        "reviews": 1,
+        "location": "Reasi, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "2011",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_47",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 48,
+        "name": "Govt Degree College Udhampur #48",
+        "link": "/colleges/govt-degree-college-udhampur-#48-48",
+        "rating": "3.9",
+        "reviews": 2,
+        "location": "Baramulla, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1979",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_48",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 49,
+        "name": "Govt Degree College Kupwara #49",
+        "link": "/colleges/govt-degree-college-kupwara-#49-49",
+        "rating": "3.9",
+        "reviews": 3,
+        "location": "Anantnag, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1961",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_49",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 50,
+        "name": "Govt Degree College Doda #50",
+        "link": "/colleges/govt-degree-college-doda-#50-50",
+        "rating": "4.0",
+        "reviews": 10,
+        "location": "Bandipora, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1957",
+        "popular_programs": [
+          "B.Tech",
+          "M.Tech"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_50",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 51,
+        "name": "Govt Degree College Rajouri #51",
+        "link": "/colleges/govt-degree-college-rajouri-#51-51",
+        "rating": "4.3",
+        "reviews": 22,
+        "location": "Leh, Ladakh",
+        "type": "Government",
+        "established": "2015",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_51",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 52,
+        "name": "Govt Degree College Kupwara #52",
+        "link": "/colleges/govt-degree-college-kupwara-#52-52",
+        "rating": "3.7",
+        "reviews": 30,
+        "location": "Anantnag, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1957",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_52",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 53,
+        "name": "Govt Degree College Sopore #53",
+        "link": "/colleges/govt-degree-college-sopore-#53-53",
+        "rating": "3.8",
+        "reviews": 24,
+        "location": "Ganderbal, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2010",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_53",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 54,
+        "name": "Islamia College of Science & Commerce #54",
+        "link": "/colleges/islamia-college-of-science-&-commerce-#54-54",
+        "rating": "3.6",
+        "reviews": 25,
+        "location": "Doda, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1991",
+        "popular_programs": [
+          "B.Com",
+          "M.Com"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_54",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 55,
+        "name": "Govt Degree College Poonch #55",
+        "link": "/colleges/govt-degree-college-poonch-#55-55",
+        "rating": "3.6",
+        "reviews": 4,
+        "location": "Kulgam, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1983",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_55",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 56,
+        "name": "Govt Degree College Sopore #56",
+        "link": "/colleges/govt-degree-college-sopore-#56-56",
+        "rating": "4.1",
+        "reviews": 23,
+        "location": "Reasi, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1979",
+        "popular_programs": [
+          "B.Com",
+          "M.Com"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_56",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 57,
+        "name": "Govt Degree College Kulgam #57",
+        "link": "/colleges/govt-degree-college-kulgam-#57-57",
+        "rating": "4.0",
+        "reviews": 14,
+        "location": "Anantnag, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1948",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_57",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 58,
+        "name": "Govt Degree College Kulgam #58",
+        "link": "/colleges/govt-degree-college-kulgam-#58-58",
+        "rating": "4.5",
+        "reviews": 14,
+        "location": "Baramulla, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1996",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_58",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 59,
+        "name": "Govt Degree College Kupwara #59",
+        "link": "/colleges/govt-degree-college-kupwara-#59-59",
+        "rating": "4.3",
+        "reviews": 27,
+        "location": "Kulgam, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1951",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_59",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 60,
+        "name": "Govt Degree College Kathua #60",
+        "link": "/colleges/govt-degree-college-kathua-#60-60",
+        "rating": "4.7",
+        "reviews": 11,
+        "location": "Bandipora, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1982",
+        "popular_programs": [
+          "B.Com",
+          "M.Com"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_60",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 61,
+        "name": "Govt Degree College Sopore #61",
+        "link": "/colleges/govt-degree-college-sopore-#61-61",
+        "rating": "4.3",
+        "reviews": 19,
+        "location": "Kargil, Ladakh",
+        "type": "Autonomous",
+        "established": "2010",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_61",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 62,
+        "name": "Govt Degree College Ganderbal #62",
+        "link": "/colleges/govt-degree-college-ganderbal-#62-62",
+        "rating": "4.0",
+        "reviews": 19,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1985",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_62",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 63,
+        "name": "Govt Degree College Doda #63",
+        "link": "/colleges/govt-degree-college-doda-#63-63",
+        "rating": "4.4",
+        "reviews": 10,
+        "location": "Kulgam, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1945",
+        "popular_programs": [
+          "B.Tech",
+          "M.Tech"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_63",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 64,
+        "name": "Govt Degree College Shopian #64",
+        "link": "/colleges/govt-degree-college-shopian-#64-64",
+        "rating": "4.0",
+        "reviews": 20,
+        "location": "Udhampur, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1993",
+        "popular_programs": [
+          "B.Com",
+          "M.Com"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_64",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 65,
+        "name": "Govt Degree College Kathua #65",
+        "link": "/colleges/govt-degree-college-kathua-#65-65",
+        "rating": "3.6",
+        "reviews": 14,
+        "location": "Rajouri, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1999",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_65",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 66,
+        "name": "Govt Degree College Kupwara #66",
+        "link": "/colleges/govt-degree-college-kupwara-#66-66",
+        "rating": "4.2",
+        "reviews": 15,
+        "location": "Doda, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1993",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_66",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 67,
+        "name": "Govt Degree College Anantnag #67",
+        "link": "/colleges/govt-degree-college-anantnag-#67-67",
+        "rating": "4.0",
+        "reviews": 22,
+        "location": "Kathua, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1995",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_67",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 68,
+        "name": "Govt Degree College Kulgam #68",
+        "link": "/colleges/govt-degree-college-kulgam-#68-68",
+        "rating": "3.6",
+        "reviews": 7,
+        "location": "Rajouri, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1970",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_68",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 69,
+        "name": "Govt Degree College Doda #69",
+        "link": "/colleges/govt-degree-college-doda-#69-69",
+        "rating": "4.5",
+        "reviews": 28,
+        "location": "Baramulla, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1989",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_69",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 70,
+        "name": "Govt Degree College Anantnag #70",
+        "link": "/colleges/govt-degree-college-anantnag-#70-70",
+        "rating": "4.9",
+        "reviews": 3,
+        "location": "Kargil, Ladakh",
+        "type": "Autonomous",
+        "established": "1990",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_70",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 71,
+        "name": "Govt Degree College Kupwara #71",
+        "link": "/colleges/govt-degree-college-kupwara-#71-71",
+        "rating": "4.4",
+        "reviews": 21,
+        "location": "Anantnag, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1972",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_71",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 72,
+        "name": "Govt Degree College Rajouri #72",
+        "link": "/colleges/govt-degree-college-rajouri-#72-72",
+        "rating": "3.7",
+        "reviews": 15,
+        "location": "Reasi, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1942",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_72",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 73,
+        "name": "Govt Degree College Kupwara #73",
+        "link": "/colleges/govt-degree-college-kupwara-#73-73",
+        "rating": "4.1",
+        "reviews": 20,
+        "location": "Baramulla, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1986",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_73",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 74,
+        "name": "Govt Degree College Kupwara #74",
+        "link": "/colleges/govt-degree-college-kupwara-#74-74",
+        "rating": "4.4",
+        "reviews": 9,
+        "location": "Anantnag, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1959",
+        "popular_programs": [
+          "BA",
+          "MA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_74",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 75,
+        "name": "Govt Degree College Sopore #75",
+        "link": "/colleges/govt-degree-college-sopore-#75-75",
+        "rating": "4.3",
+        "reviews": 7,
+        "location": "Kulgam, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "2010",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_75",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 76,
+        "name": "Govt Degree College Bandipora #76",
+        "link": "/colleges/govt-degree-college-bandipora-#76-76",
+        "rating": "4.0",
+        "reviews": 10,
+        "location": "Shopian, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1976",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_76",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 77,
+        "name": "Govt Degree College Kupwara #77",
+        "link": "/colleges/govt-degree-college-kupwara-#77-77",
+        "rating": "4.0",
+        "reviews": 3,
+        "location": "Reasi, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1977",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_77",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 78,
+        "name": "Govt Degree College Pulwama #78",
+        "link": "/colleges/govt-degree-college-pulwama-#78-78",
+        "rating": "4.9",
+        "reviews": 13,
+        "location": "Anantnag, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1992",
+        "popular_programs": [
+          "B.Tech",
+          "M.Tech"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_78",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 79,
+        "name": "Govt Degree College Kathua #79",
+        "link": "/colleges/govt-degree-college-kathua-#79-79",
+        "rating": "4.1",
+        "reviews": 6,
+        "location": "Kargil, Ladakh",
+        "type": "Autonomous",
+        "established": "1994",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_79",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 80,
+        "name": "Govt Degree College Kupwara #80",
+        "link": "/colleges/govt-degree-college-kupwara-#80-80",
+        "rating": "4.1",
+        "reviews": 29,
+        "location": "Srinagar, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1995",
+        "popular_programs": [
+          "B.Ed",
+          "M.Ed"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_80",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 81,
+        "name": "Govt Degree College Ganderbal #81",
+        "link": "/colleges/govt-degree-college-ganderbal-#81-81",
+        "rating": "3.9",
+        "reviews": 28,
+        "location": "Shopian, Jammu & Kashmir",
+        "type": "Government",
+        "established": "2006",
+        "popular_programs": [
+          "B.Com",
+          "M.Com"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_81",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 82,
+        "name": "Govt Degree College Poonch #82",
+        "link": "/colleges/govt-degree-college-poonch-#82-82",
+        "rating": "4.0",
+        "reviews": 26,
+        "location": "Kulgam, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2015",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_82",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 83,
+        "name": "Govt Degree College Leh #83",
+        "link": "/colleges/govt-degree-college-leh-#83-83",
+        "rating": "3.7",
+        "reviews": 11,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1970",
+        "popular_programs": [
+          "B.Com",
+          "M.Com"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_83",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 84,
+        "name": "Govt Degree College Shopian #84",
+        "link": "/colleges/govt-degree-college-shopian-#84-84",
+        "rating": "4.6",
+        "reviews": 22,
+        "location": "Bandipora, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1976",
+        "popular_programs": [
+          "B.Com",
+          "M.Com"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_84",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 85,
+        "name": "Govt Degree College Udhampur #85",
+        "link": "/colleges/govt-degree-college-udhampur-#85-85",
+        "rating": "4.6",
+        "reviews": 22,
+        "location": "Udhampur, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1943",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_85",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 86,
+        "name": "Govt Degree College Reasi #86",
+        "link": "/colleges/govt-degree-college-reasi-#86-86",
+        "rating": "4.9",
+        "reviews": 5,
+        "location": "Anantnag, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "2016",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_86",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 87,
+        "name": "Govt Degree College Sopore #87",
+        "link": "/colleges/govt-degree-college-sopore-#87-87",
+        "rating": "4.0",
+        "reviews": 11,
+        "location": "Kupwara, Jammu & Kashmir",
+        "type": "Private",
+        "established": "1997",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_87",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 88,
+        "name": "Govt Degree College Poonch #88",
+        "link": "/colleges/govt-degree-college-poonch-#88-88",
+        "rating": "3.9",
+        "reviews": 6,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1950",
+        "popular_programs": [
+          "B.Sc",
+          "M.Sc"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_88",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 89,
+        "name": "Govt Degree College Doda #89",
+        "link": "/colleges/govt-degree-college-doda-#89-89",
+        "rating": "3.5",
+        "reviews": 18,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2020",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_89",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 90,
+        "name": "Govt Degree College Anantnag #90",
+        "link": "/colleges/govt-degree-college-anantnag-#90-90",
+        "rating": "4.9",
+        "reviews": 15,
+        "location": "Reasi, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "2007",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_90",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 91,
+        "name": "Govt Degree College Pulwama #91",
+        "link": "/colleges/govt-degree-college-pulwama-#91-91",
+        "rating": "4.8",
+        "reviews": 15,
+        "location": "Bandipora, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1941",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_91",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 92,
+        "name": "Govt Degree College Shopian #92",
+        "link": "/colleges/govt-degree-college-shopian-#92-92",
+        "rating": "4.1",
+        "reviews": 7,
+        "location": "Srinagar, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1964",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_92",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 93,
+        "name": "Govt Degree College Kathua #93",
+        "link": "/colleges/govt-degree-college-kathua-#93-93",
+        "rating": "4.7",
+        "reviews": 7,
+        "location": "Srinagar, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "2010",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "3 years",
+        "image_id": "college_93",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 94,
+        "name": "Govt Degree College Ramban #94",
+        "link": "/colleges/govt-degree-college-ramban-#94-94",
+        "rating": "4.1",
+        "reviews": 15,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1959",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_94",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 95,
+        "name": "Sri Gulab Singh Govt Degree College #95",
+        "link": "/colleges/sri-gulab-singh-govt-degree-college-#95-95",
+        "rating": "4.3",
+        "reviews": 15,
+        "location": "Kulgam, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2010",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "5 years",
+        "image_id": "college_95",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 96,
+        "name": "Govt Degree College Anantnag #96",
+        "link": "/colleges/govt-degree-college-anantnag-#96-96",
+        "rating": "4.2",
+        "reviews": 10,
+        "location": "Pulwama, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1952",
+        "popular_programs": [
+          "B.Tech",
+          "M.Tech"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_96",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 97,
+        "name": "Govt Degree College Kathua #97",
+        "link": "/colleges/govt-degree-college-kathua-#97-97",
+        "rating": "3.8",
+        "reviews": 14,
+        "location": "Bandipora, Jammu & Kashmir",
+        "type": "Government",
+        "established": "1943",
+        "popular_programs": [
+          "B.Sc Agriculture",
+          "M.Sc Agriculture"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_97",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 98,
+        "name": "Govt Degree College Sopore #98",
+        "link": "/colleges/govt-degree-college-sopore-#98-98",
+        "rating": "5.0",
+        "reviews": 23,
+        "location": "Doda, Jammu & Kashmir",
+        "type": "Autonomous",
+        "established": "1941",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_98",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 99,
+        "name": "Govt Degree College Kathua #99",
+        "link": "/colleges/govt-degree-college-kathua-#99-99",
+        "rating": "4.4",
+        "reviews": 30,
+        "location": "Udhampur, Jammu & Kashmir",
+        "type": "Private",
+        "established": "2018",
+        "popular_programs": [
+          "B.Sc",
+          "B.A"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_99",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      },
+      {
+        "id": 100,
+        "name": "Govt Degree College Baramulla #100",
+        "link": "/colleges/govt-degree-college-baramulla-#100-100",
+        "rating": "4.9",
+        "reviews": 9,
+        "location": "Bandipora, Jammu & Kashmir",
+        "type": "Government",
+        "established": "2001",
+        "popular_programs": [
+          "B.Sc",
+          "BCA"
+        ],
+        "program_duration": "4 years",
+        "image_id": "college_100",
+        "image": "https://static.collegedekho.com/static-up/images/college_listing/placeholder.9fed74b79efc.svg"
+      }
+    ]
+  }
+]
