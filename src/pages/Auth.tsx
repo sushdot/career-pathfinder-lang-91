@@ -52,36 +52,43 @@ const Auth = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-background via-muted/20 to-accent/10 flex items-center justify-center p-4">
-      <Card className="w-full max-w-md glass backdrop-blur-xl border-white/20 animate-fade-in">
+    <div className="min-h-screen bg-gradient-to-br from-primary/5 via-secondary/5 to-accent/5 flex items-center justify-center p-4 relative overflow-hidden">
+      {/* Background Decorative Elements */}
+      <div className="absolute inset-0 overflow-hidden pointer-events-none">
+        <div className="absolute top-20 left-20 w-32 h-32 bg-primary/10 rounded-full blur-3xl animate-float"></div>
+        <div className="absolute bottom-20 right-20 w-40 h-40 bg-secondary/10 rounded-full blur-3xl animate-float" style={{ animationDelay: '1s' }}></div>
+        <div className="absolute top-1/2 left-1/4 w-24 h-24 bg-accent/10 rounded-full blur-3xl animate-float" style={{ animationDelay: '2s' }}></div>
+      </div>
+
+      <Card className="w-full max-w-md card-glass backdrop-blur-xl animate-fade-in relative z-10">
         <CardHeader className="space-y-6 pb-8">
           <div className="flex justify-center">
-            <div className="p-4 bg-gradient-to-r from-primary to-primary-light rounded-2xl shadow-lg">
+            <div className="p-6 bg-gradient-to-br from-primary to-primary-light rounded-3xl shadow-glow hover-scale">
               {isLogin ? (
-                <LogIn className="h-8 w-8 text-white" />
+                <LogIn className="h-10 w-10 text-white" />
               ) : (
-                <UserPlus className="h-8 w-8 text-white" />
+                <UserPlus className="h-10 w-10 text-white" />
               )}
             </div>
           </div>
           
-          <div className="text-center space-y-2">
-            <h1 className="text-3xl font-bold tracking-tight">
-              {isLogin ? "Welcome back" : "Create account"}
+          <div className="text-center space-y-3">
+            <h1 className="text-4xl font-bold tracking-tight gradient-text animate-slide-up">
+              {isLogin ? "Welcome back" : "Join EduConnect"}
             </h1>
-            <p className="text-muted-foreground">
+            <p className="text-lg text-muted-foreground font-medium animate-slide-up" style={{ animationDelay: '100ms' }}>
               {isLogin 
-                ? "Sign in to your account to continue" 
-                : "Join us and start your journey"
+                ? "Continue your educational journey" 
+                : "Start your path to success"
               }
             </p>
           </div>
         </CardHeader>
 
-        <CardContent className="space-y-6">
+        <CardContent className="space-y-8 p-8">
           {isLogin ? (
             <Form {...loginForm}>
-              <form onSubmit={loginForm.handleSubmit(handleLogin)} className="space-y-4">
+              <form onSubmit={loginForm.handleSubmit(handleLogin)} className="space-y-6">
                 <FormField
                   control={loginForm.control}
                   name="email"
@@ -93,13 +100,13 @@ const Auth = () => {
                     }
                   }}
                   render={({ field }) => (
-                    <FormItem>
-                      <FormLabel>Email</FormLabel>
+                    <FormItem className="animate-slide-in" style={{ animationDelay: '200ms' }}>
+                      <FormLabel className="text-base font-semibold">Email Address</FormLabel>
                       <FormControl>
                         <Input 
-                          placeholder="Enter your email" 
+                          placeholder="Enter your email address" 
                           type="email"
-                          className="h-12 bg-background/50 border-border/50 focus:bg-background"
+                          className="h-14 input-modern text-base"
                           {...field} 
                         />
                       </FormControl>
@@ -119,21 +126,21 @@ const Auth = () => {
                     }
                   }}
                   render={({ field }) => (
-                    <FormItem>
-                      <FormLabel>Password</FormLabel>
+                    <FormItem className="animate-slide-in" style={{ animationDelay: '300ms' }}>
+                      <FormLabel className="text-base font-semibold">Password</FormLabel>
                       <FormControl>
                         <div className="relative">
                           <Input 
                             placeholder="Enter your password" 
                             type={showPassword ? "text" : "password"}
-                            className="h-12 bg-background/50 border-border/50 focus:bg-background pr-12"
+                            className="h-14 input-modern text-base pr-14"
                             {...field} 
                           />
                           <Button
                             type="button"
                             variant="ghost"
                             size="sm"
-                            className="absolute right-0 top-0 h-full px-3 hover:bg-transparent"
+                            className="absolute right-0 top-0 h-full px-4 hover:bg-transparent"
                             onClick={() => setShowPassword(!showPassword)}
                           >
                             {showPassword ? (
@@ -149,14 +156,14 @@ const Auth = () => {
                   )}
                 />
 
-                <Button type="submit" className="w-full h-12 text-base font-medium">
+                <Button type="submit" className="w-full h-14 text-lg font-semibold btn-gradient hover-scale animate-slide-in" style={{ animationDelay: '400ms' }}>
                   Sign In
                 </Button>
               </form>
             </Form>
           ) : (
             <Form {...signupForm}>
-              <form onSubmit={signupForm.handleSubmit(handleSignup)} className="space-y-4">
+              <form onSubmit={signupForm.handleSubmit(handleSignup)} className="space-y-6">
                 <FormField
                   control={signupForm.control}
                   name="username"
@@ -168,12 +175,12 @@ const Auth = () => {
                     }
                   }}
                   render={({ field }) => (
-                    <FormItem>
-                      <FormLabel>Username</FormLabel>
+                    <FormItem className="animate-slide-in" style={{ animationDelay: '200ms' }}>
+                      <FormLabel className="text-base font-semibold">Username</FormLabel>
                       <FormControl>
                         <Input 
-                          placeholder="Choose a username" 
-                          className="h-12 bg-background/50 border-border/50 focus:bg-background"
+                          placeholder="Choose your username" 
+                          className="h-14 input-modern text-base"
                           {...field} 
                         />
                       </FormControl>
@@ -193,13 +200,13 @@ const Auth = () => {
                     }
                   }}
                   render={({ field }) => (
-                    <FormItem>
-                      <FormLabel>Email</FormLabel>
+                    <FormItem className="animate-slide-in" style={{ animationDelay: '300ms' }}>
+                      <FormLabel className="text-base font-semibold">Email Address</FormLabel>
                       <FormControl>
                         <Input 
-                          placeholder="Enter your email" 
+                          placeholder="Enter your email address" 
                           type="email"
-                          className="h-12 bg-background/50 border-border/50 focus:bg-background"
+                          className="h-14 input-modern text-base"
                           {...field} 
                         />
                       </FormControl>
@@ -219,21 +226,21 @@ const Auth = () => {
                     }
                   }}
                   render={({ field }) => (
-                    <FormItem>
-                      <FormLabel>Password</FormLabel>
+                    <FormItem className="animate-slide-in" style={{ animationDelay: '400ms' }}>
+                      <FormLabel className="text-base font-semibold">Password</FormLabel>
                       <FormControl>
                         <div className="relative">
                           <Input 
-                            placeholder="Create a password" 
+                            placeholder="Create a strong password" 
                             type={showPassword ? "text" : "password"}
-                            className="h-12 bg-background/50 border-border/50 focus:bg-background pr-12"
+                            className="h-14 input-modern text-base pr-14"
                             {...field} 
                           />
                           <Button
                             type="button"
                             variant="ghost"
                             size="sm"
-                            className="absolute right-0 top-0 h-full px-3 hover:bg-transparent"
+                            className="absolute right-0 top-0 h-full px-4 hover:bg-transparent"
                             onClick={() => setShowPassword(!showPassword)}
                           >
                             {showPassword ? (
@@ -254,12 +261,12 @@ const Auth = () => {
                   name="region"
                   rules={{ required: "Please select your region" }}
                   render={({ field }) => (
-                    <FormItem>
-                      <FormLabel>Region</FormLabel>
+                    <FormItem className="animate-slide-in" style={{ animationDelay: '500ms' }}>
+                      <FormLabel className="text-base font-semibold">Region</FormLabel>
                       <Select onValueChange={field.onChange} defaultValue={field.value}>
                         <FormControl>
-                          <SelectTrigger className="h-12 bg-background/50 border-border/50 focus:bg-background">
-                            <SelectValue placeholder="Select your region" />
+                          <SelectTrigger className="h-14 input-modern text-base">
+                            <SelectValue placeholder="Choose your region" />
                           </SelectTrigger>
                         </FormControl>
                         <SelectContent>
@@ -275,23 +282,23 @@ const Auth = () => {
                   )}
                 />
 
-                <Button type="submit" className="w-full h-12 text-base font-medium">
+                <Button type="submit" className="w-full h-14 text-lg font-semibold btn-gradient hover-scale animate-slide-in" style={{ animationDelay: '600ms' }}>
                   Create Account
                 </Button>
               </form>
             </Form>
           )}
 
-          <div className="text-center">
-            <p className="text-sm text-muted-foreground">
+          <div className="text-center animate-slide-in" style={{ animationDelay: '700ms' }}>
+            <p className="text-base text-muted-foreground">
               {isLogin ? "Don't have an account?" : "Already have an account?"}
               {" "}
               <Button
                 variant="link"
-                className="p-0 h-auto font-medium text-primary hover:text-primary/80"
+                className="p-0 h-auto font-semibold text-lg text-primary hover:text-primary/80 hover-scale"
                 onClick={() => setIsLogin(!isLogin)}
               >
-                {isLogin ? "Sign up" : "Sign in"}
+                {isLogin ? "Create account" : "Sign in"}
               </Button>
             </p>
           </div>
