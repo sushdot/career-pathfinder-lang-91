@@ -56,8 +56,8 @@ const Courses = () => {
   const courses = getStreamCourses();
 
   return (
-    <div className="min-h-screen bg-gradient-hero scroll-smooth p-4">
-      <div className="container mx-auto max-w-4xl py-8">
+    <div className="min-h-screen bg-background scroll-smooth p-4">
+      <div className="container mx-auto max-w-4xl pt-8 pb-16">
         {/* Header */}
         <div className="text-center mb-8 animate-fade-in">
           <h1 className="text-3xl font-bold mb-4 text-primary">{t('courses.title')}</h1>

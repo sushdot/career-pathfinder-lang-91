@@ -26,7 +26,7 @@ const UserProfile = () => {
 
   return (
     <div className="min-h-screen bg-background p-4">
-      <div className="container mx-auto max-w-2xl pt-20">
+      <div className="container mx-auto max-w-2xl pt-8 pb-16">
         <div className="text-center mb-8 animate-fade-in">
           <div className="p-4 bg-primary rounded-full mx-auto w-fit mb-4">
             <User className="h-12 w-12 text-white" />

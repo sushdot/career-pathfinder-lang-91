@@ -45,8 +45,8 @@ const Results = () => {
   const streamDescription = t(`results.${userData.recommendedStream}Desc`);
 
   return (
-    <div className="min-h-screen bg-gradient-hero scroll-smooth p-4">
-      <div className="container mx-auto max-w-2xl py-8">
+    <div className="min-h-screen bg-background scroll-smooth p-4">
+      <div className="container mx-auto max-w-2xl pt-8 pb-16">
         {/* Results Header */}
         <div className="text-center mb-8 animate-fade-in">
           <h1 className="text-3xl font-bold mb-4 text-primary">{t('results.title')}</h1>

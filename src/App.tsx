@@ -5,6 +5,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { LanguageProvider } from "@/contexts/LanguageContext";
 import { UserProvider } from "@/contexts/UserContext";
+import MainLayout from "@/layouts/MainLayout";
 import Index from "./pages/Index";
 import Auth from "./pages/Auth";
 import Quiz from "./pages/Quiz";
@@ -22,29 +23,28 @@ const App = () => {
   console.log("App component loaded with UserProfile route");
   return (
   <QueryClientProvider client={queryClient}>
-    <UserProvider>
-      <LanguageProvider>
-        <TooltipProvider>
-          <Toaster />
-          <Sonner />
-          <BrowserRouter>
-            <Routes>
-              <Route path="/" element={<Index />} />
-              <Route path="/auth" element={<Auth />} />
-              <Route path="/profile" element={<UserProfile />} />
-              <Route path="/quiz" element={<Quiz />} />
-              <Route path="/results" element={<Results />} />
-              <Route path="/courses" element={<Courses />} />
-              <Route path="/colleges" element={<CollegeMap />} />
-              <Route path="/scholarships" element={<Scholarships />} />
-              <Route path="/dashboard" element={<Dashboard />} />
-              {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
-              <Route path="*" element={<NotFound />} />
-            </Routes>
-          </BrowserRouter>
-        </TooltipProvider>
-      </LanguageProvider>
-    </UserProvider>
+        <UserProvider>
+          <LanguageProvider>
+            <TooltipProvider>
+              <Toaster />
+              <Sonner />
+              <BrowserRouter>
+                <Routes>
+                  <Route path="/" element={<MainLayout><Index /></MainLayout>} />
+                  <Route path="/auth" element={<MainLayout showNav={false} showFooter={false}><Auth /></MainLayout>} />
+                  <Route path="/profile" element={<MainLayout><UserProfile /></MainLayout>} />
+                  <Route path="/quiz" element={<MainLayout><Quiz /></MainLayout>} />
+                  <Route path="/results" element={<MainLayout><Results /></MainLayout>} />
+                  <Route path="/courses" element={<MainLayout><Courses /></MainLayout>} />
+                  <Route path="/colleges" element={<MainLayout><CollegeMap /></MainLayout>} />
+                  <Route path="/scholarships" element={<MainLayout><Scholarships /></MainLayout>} />
+                  <Route path="/dashboard" element={<MainLayout><Dashboard /></MainLayout>} />
+                  <Route path="*" element={<MainLayout><NotFound /></MainLayout>} />
+                </Routes>
+              </BrowserRouter>
+            </TooltipProvider>
+          </LanguageProvider>
+        </UserProvider>
   </QueryClientProvider>
   );
 };

@@ -118,8 +118,8 @@ const Quiz = () => {
   const progress = ((currentQuestion + 1) / questions.length) * 100;
 
   return (
-    <div className="min-h-screen bg-gradient-hero scroll-smooth p-4">
-      <div className="container mx-auto max-w-2xl py-8">
+    <div className="min-h-screen bg-background scroll-smooth p-4">
+      <div className="container mx-auto max-w-2xl pt-8 pb-16">
         {/* Progress Header */}
         <div className="mb-8 animate-fade-in">
           <div className="flex justify-between items-center mb-4">

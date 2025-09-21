@@ -100,7 +100,7 @@ const Scholarships = () => {
 
   return (
     <div className="min-h-screen bg-background">
-      <div className="container mx-auto px-4 pt-20 pb-16">
+      <div className="container mx-auto px-4 pt-8 pb-16">
         {/* Header */}
         <div className="text-center mb-12 animate-fade-in">
           <div className="p-4 bg-primary rounded-full mx-auto w-fit mb-6">
