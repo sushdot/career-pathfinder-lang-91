@@ -18,7 +18,9 @@ import Scholarships from "./pages/Scholarships";
 
 const queryClient = new QueryClient();
 
-const App = () => (
+const App = () => {
+  console.log("App component loaded with UserProfile route");
+  return (
   <QueryClientProvider client={queryClient}>
     <UserProvider>
       <LanguageProvider>
@@ -44,6 +46,7 @@ const App = () => (
       </LanguageProvider>
     </UserProvider>
   </QueryClientProvider>
-);
+  );
+};
 
 export default App;
