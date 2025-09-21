@@ -1,15 +1,15 @@
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { GraduationCap, BookOpen, Users, Sparkles, Zap, Target } from "lucide-react";
+import { GraduationCap, BookOpen, Users, Sparkles, Zap, Target, Award, MapPin, ArrowRight } from "lucide-react";
 
 const Index = () => {
   const navigate = useNavigate();
   const { t } = useLanguage();
 
   return (
-    <div className="min-h-screen bg-gradient-hero scroll-smooth">
-      <div className="absolute inset-0 bg-black/5" />
+    <div className="min-h-screen bg-background scroll-smooth">
+      <div className="absolute inset-0 bg-primary/5" />
       
       {/* Hero Section */}
       <div className="relative z-10 container mx-auto px-4 pt-20 pb-16">
@@ -34,21 +34,22 @@ const Index = () => {
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center animate-slide-in" style={{ animationDelay: '400ms' }}>
             <Button 
-              onClick={() => navigate('/auth')}
+              onClick={() => navigate('/profile')}
               size="lg"
-              className="text-lg px-10 py-5 smooth-transition hover-scale"
+              className="text-lg px-10 py-5 smooth-transition hover-scale bg-primary hover:bg-primary/90"
             >
               <Zap className="w-6 h-6 mr-3" />
-              Get Started
+              Start Your Journey
+              <ArrowRight className="w-6 h-6 ml-3" />
             </Button>
             
             <Button 
               variant="outline"
               size="lg"
-              className="text-lg px-10 py-5 smooth-transition hover-scale"
+              className="text-lg px-10 py-5 smooth-transition hover-scale border-primary text-primary hover:bg-primary hover:text-white"
             >
               <Target className="w-6 h-6 mr-3" />
-              Learn More
+              Explore Features
             </Button>
           </div>
         </div>
@@ -65,34 +66,52 @@ const Index = () => {
           </p>
         </div>
         
-        <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
-          <div className="card-professional p-8 text-center hover-lift animate-slide-up" style={{ animationDelay: '700ms' }}>
-            <div className="bg-primary p-4 rounded-full w-20 h-20 mx-auto mb-6 smooth-transition hover-scale">
-              <BookOpen className="w-12 h-12 text-white" />
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
+          <div className="card-modern p-6 text-center hover-lift animate-slide-up cursor-pointer" 
+               style={{ animationDelay: '700ms' }}
+               onClick={() => navigate('/profile')}>
+            <div className="bg-primary p-4 rounded-full w-16 h-16 mx-auto mb-4 smooth-transition hover-scale">
+              <BookOpen className="w-8 h-8 text-white" />
             </div>
-            <h3 className="text-2xl font-bold text-primary mb-4">Smart Quiz</h3>
-            <p className="text-muted-foreground leading-relaxed">
-              Answer 10 intelligent questions designed to discover your interests, strengths, and career preferences.
+            <h3 className="text-xl font-bold text-primary mb-3">Smart Quiz</h3>
+            <p className="text-muted-foreground text-sm leading-relaxed">
+              Discover your interests and strengths through our intelligent assessment
             </p>
           </div>
 
-          <div className="card-professional p-8 text-center hover-lift animate-slide-up" style={{ animationDelay: '800ms' }}>
-            <div className="bg-primary p-4 rounded-full w-20 h-20 mx-auto mb-6 smooth-transition hover-scale">
-              <GraduationCap className="w-12 h-12 text-white" />
+          <div className="card-modern p-6 text-center hover-lift animate-slide-up cursor-pointer" 
+               style={{ animationDelay: '800ms' }}
+               onClick={() => navigate('/colleges')}>
+            <div className="bg-secondary p-4 rounded-full w-16 h-16 mx-auto mb-4 smooth-transition hover-scale">
+              <GraduationCap className="w-8 h-8 text-white" />
             </div>
-            <h3 className="text-2xl font-bold text-primary mb-4">Stream Recommendation</h3>
-            <p className="text-muted-foreground leading-relaxed">
-              Get AI-powered personalized recommendations for Science, Commerce, or Arts streams based on your profile.
+            <h3 className="text-xl font-bold text-secondary mb-3">College Explorer</h3>
+            <p className="text-muted-foreground text-sm leading-relaxed">
+              Find the best colleges and universities in Jammu & Kashmir
             </p>
           </div>
 
-          <div className="card-professional p-8 text-center hover-lift animate-slide-up" style={{ animationDelay: '900ms' }}>
-            <div className="bg-primary p-4 rounded-full w-20 h-20 mx-auto mb-6 smooth-transition hover-scale">
-              <Users className="w-12 h-12 text-white" />
+          <div className="card-modern p-6 text-center hover-lift animate-slide-up cursor-pointer" 
+               style={{ animationDelay: '900ms' }}
+               onClick={() => navigate('/scholarships')}>
+            <div className="bg-accent p-4 rounded-full w-16 h-16 mx-auto mb-4 smooth-transition hover-scale">
+              <Award className="w-8 h-8 text-white" />
             </div>
-            <h3 className="text-2xl font-bold text-primary mb-4">College Info</h3>
-            <p className="text-muted-foreground leading-relaxed">
-              Explore comprehensive information about colleges and universities in Jammu & Kashmir with detailed guidance.
+            <h3 className="text-xl font-bold text-accent mb-3">Scholarships</h3>
+            <p className="text-muted-foreground text-sm leading-relaxed">
+              Discover financial aid opportunities for your education
+            </p>
+          </div>
+
+          <div className="card-modern p-6 text-center hover-lift animate-slide-up cursor-pointer" 
+               style={{ animationDelay: '1000ms' }}
+               onClick={() => navigate('/courses')}>
+            <div className="bg-success p-4 rounded-full w-16 h-16 mx-auto mb-4 smooth-transition hover-scale">
+              <Target className="w-8 h-8 text-white" />
+            </div>
+            <h3 className="text-xl font-bold text-success mb-3">Career Paths</h3>
+            <p className="text-muted-foreground text-sm leading-relaxed">
+              Explore diverse career opportunities and courses
             </p>
           </div>
         </div>

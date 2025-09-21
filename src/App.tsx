@@ -13,6 +13,8 @@ import CollegeMap from "./components/CollegeMap";
 import Courses from "./pages/Courses";
 import Dashboard from "./pages/Dashboard";
 import NotFound from "./pages/NotFound";
+import UserProfile from "./pages/UserProfile";
+import Scholarships from "./pages/Scholarships";
 
 const queryClient = new QueryClient();
 
@@ -27,10 +29,12 @@ const App = () => (
             <Routes>
               <Route path="/" element={<Index />} />
               <Route path="/auth" element={<Auth />} />
+              <Route path="/profile" element={<UserProfile />} />
               <Route path="/quiz" element={<Quiz />} />
               <Route path="/results" element={<Results />} />
               <Route path="/courses" element={<Courses />} />
-              <Route path="/map" element={<CollegeMap />} />
+              <Route path="/colleges" element={<CollegeMap />} />
+              <Route path="/scholarships" element={<Scholarships />} />
               <Route path="/dashboard" element={<Dashboard />} />
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />

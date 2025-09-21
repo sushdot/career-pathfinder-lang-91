@@ -52,13 +52,13 @@ All colors MUST be HSL.
 
     --radius: 1rem;
     
-    /* Beautiful Modern Gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(217 91% 60%) 0%, hsl(262 83% 58%) 50%, hsl(180 84% 45%) 100%);
-    --gradient-hero: linear-gradient(135deg, hsl(217 91% 95%) 0%, hsl(262 83% 95%) 50%, hsl(180 84% 95%) 100%);
-    --gradient-card: linear-gradient(145deg, hsl(0 0% 100%) 0%, hsl(217 91% 98%) 30%, hsl(262 83% 98%) 100%);
-    --gradient-glass: linear-gradient(135deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0.18) 100%);
-    --gradient-button: linear-gradient(135deg, hsl(217 91% 60%) 0%, hsl(217 91% 55%) 100%);
-    --gradient-button-hover: linear-gradient(135deg, hsl(217 91% 55%) 0%, hsl(217 91% 50%) 100%);
+    /* Solid Modern Colors */
+    --solid-primary: hsl(217 91% 60%);
+    --solid-secondary: hsl(262 83% 58%);
+    --solid-accent: hsl(180 84% 45%);
+    --solid-hero-bg: hsl(217 91% 98%);
+    --solid-card-bg: hsl(0 0% 100%);
+    --solid-glass-bg: rgba(255, 255, 255, 0.95);
     
     /* Elegant Shadows with Color */
     --shadow-card: 0 4px 20px -2px hsl(217 91% 60% / 0.08), 0 2px 8px -2px hsl(217 91% 60% / 0.04);
@@ -118,11 +118,13 @@ All colors MUST be HSL.
     --input: 222 15% 18%;
     --ring: 217 91% 65%;
 
-    /* Dark Mode Gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(217 91% 60%) 0%, hsl(262 83% 58%) 50%, hsl(180 84% 45%) 100%);
-    --gradient-hero: linear-gradient(135deg, hsl(222 15% 8%) 0%, hsl(217 91% 10%) 30%, hsl(262 83% 10%) 100%);
-    --gradient-card: linear-gradient(145deg, hsl(222 15% 8%) 0%, hsl(217 91% 8%) 30%, hsl(262 83% 8%) 100%);
-    --gradient-glass: linear-gradient(135deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.05) 100%);
+    /* Dark Mode Solid Colors */
+    --solid-primary: hsl(217 91% 65%);
+    --solid-secondary: hsl(262 83% 65%);
+    --solid-accent: hsl(180 84% 50%);
+    --solid-hero-bg: hsl(222 15% 8%);
+    --solid-card-bg: hsl(222 15% 8%);
+    --solid-glass-bg: rgba(255, 255, 255, 0.08);
     
     --sidebar-background: 222 15% 4%;
     --sidebar-foreground: 210 20% 91%;
@@ -235,12 +237,14 @@ All colors MUST be HSL.
 @layer components {
   /* Modern Card Styles */
   .card-modern {
-    background: var(--gradient-card);
-    @apply shadow-card hover-lift rounded-xl border border-white/20;
+    background: var(--solid-card-bg);
+    @apply shadow-card hover-lift rounded-xl border border-border;
   }
   
   .card-glass {
-    @apply glass-card hover-lift rounded-xl;
+    background: var(--solid-glass-bg);
+    backdrop-filter: blur(20px);
+    @apply hover-lift rounded-xl border border-border/20;
   }
 
   .card-elevated {
